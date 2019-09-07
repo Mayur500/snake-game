@@ -1,0 +1,55 @@
+.main{margin-left:100px;
+	margin-top: 70px;
+	
+	
+	
+}
+
+
+#box{
+	position: relative;
+	margin-left:200px;
+	margin-top: 0px;
+	border-style:solid;
+	border-width: 5px;
+	border-color:firebrick;
+	width:900px;
+	height:520px;
+	background-image: url("images/greenbackround.webp");
+	background-size:cover;
+	background-repeat: no-repeat;
+
+	
+}
+body{
+	background-color:black;
+	
+}
+.snake{position: absolute;
+		top: 20px;
+left: 600px;
+	color:aliceblue;
+}
+.score{font-size:30px;
+	position: absolute;
+		top: 600px;
+	left: 600px;
+	color:aliceblue;
+	
+}
+#score1{position:absolute;
+	font-size:30px;
+	top:0px;
+	left:120px;
+ color:black;
+}
+
+#over{
+	position: absolute;
+	top:230px;
+	left:550px;
+	font-size: 50px;
+	color: white;
+	
+}
+
